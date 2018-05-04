@@ -1,0 +1,22 @@
+C:\Users\Manrique Fals\source\repos\Rpg\Rpg\bin\Debug\netcoreapp2.0\Rpg.deps.json
+C:\Users\Manrique Fals\source\repos\Rpg\Rpg\bin\Debug\netcoreapp2.0\Rpg.runtimeconfig.json
+C:\Users\Manrique Fals\source\repos\Rpg\Rpg\bin\Debug\netcoreapp2.0\Rpg.runtimeconfig.dev.json
+C:\Users\Manrique Fals\source\repos\Rpg\Rpg\bin\Debug\netcoreapp2.0\Rpg.dll
+C:\Users\Manrique Fals\source\repos\Rpg\Rpg\bin\Debug\netcoreapp2.0\Rpg.pdb
+C:\Users\Manrique Fals\source\repos\Rpg\Rpg\obj\Debug\netcoreapp2.0\Rpg.csprojResolveAssemblyReference.cache
+C:\Users\Manrique Fals\source\repos\Rpg\Rpg\obj\Debug\netcoreapp2.0\Rpg.csproj.CoreCompileInputs.cache
+C:\Users\Manrique Fals\source\repos\Rpg\Rpg\obj\Debug\netcoreapp2.0\Rpg.AssemblyInfoInputs.cache
+C:\Users\Manrique Fals\source\repos\Rpg\Rpg\obj\Debug\netcoreapp2.0\Rpg.AssemblyInfo.cs
+C:\Users\Manrique Fals\source\repos\Rpg\Rpg\obj\Debug\netcoreapp2.0\Rpg.dll
+C:\Users\Manrique Fals\source\repos\Rpg\Rpg\obj\Debug\netcoreapp2.0\Rpg.pdb
+C:\Users\Manrique Fals\Desktop\Juan felipe\universidad\Semestre 7\Desarrollo aplicaciones .net\Proyecto\Rpg\Rpg\bin\Debug\netcoreapp2.0\Rpg.deps.json
+C:\Users\Manrique Fals\Desktop\Juan felipe\universidad\Semestre 7\Desarrollo aplicaciones .net\Proyecto\Rpg\Rpg\bin\Debug\netcoreapp2.0\Rpg.runtimeconfig.json
+C:\Users\Manrique Fals\Desktop\Juan felipe\universidad\Semestre 7\Desarrollo aplicaciones .net\Proyecto\Rpg\Rpg\bin\Debug\netcoreapp2.0\Rpg.runtimeconfig.dev.json
+C:\Users\Manrique Fals\Desktop\Juan felipe\universidad\Semestre 7\Desarrollo aplicaciones .net\Proyecto\Rpg\Rpg\bin\Debug\netcoreapp2.0\Rpg.dll
+C:\Users\Manrique Fals\Desktop\Juan felipe\universidad\Semestre 7\Desarrollo aplicaciones .net\Proyecto\Rpg\Rpg\bin\Debug\netcoreapp2.0\Rpg.pdb
+C:\Users\Manrique Fals\Desktop\Juan felipe\universidad\Semestre 7\Desarrollo aplicaciones .net\Proyecto\Rpg\Rpg\obj\Debug\netcoreapp2.0\Rpg.csprojResolveAssemblyReference.cache
+C:\Users\Manrique Fals\Desktop\Juan felipe\universidad\Semestre 7\Desarrollo aplicaciones .net\Proyecto\Rpg\Rpg\obj\Debug\netcoreapp2.0\Rpg.csproj.CoreCompileInputs.cache
+C:\Users\Manrique Fals\Desktop\Juan felipe\universidad\Semestre 7\Desarrollo aplicaciones .net\Proyecto\Rpg\Rpg\obj\Debug\netcoreapp2.0\Rpg.AssemblyInfoInputs.cache
+C:\Users\Manrique Fals\Desktop\Juan felipe\universidad\Semestre 7\Desarrollo aplicaciones .net\Proyecto\Rpg\Rpg\obj\Debug\netcoreapp2.0\Rpg.AssemblyInfo.cs
+C:\Users\Manrique Fals\Desktop\Juan felipe\universidad\Semestre 7\Desarrollo aplicaciones .net\Proyecto\Rpg\Rpg\obj\Debug\netcoreapp2.0\Rpg.dll
+C:\Users\Manrique Fals\Desktop\Juan felipe\universidad\Semestre 7\Desarrollo aplicaciones .net\Proyecto\Rpg\Rpg\obj\Debug\netcoreapp2.0\Rpg.pdb

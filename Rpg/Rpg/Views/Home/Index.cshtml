@@ -1,0 +1,90 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<h1>it worked.. now</h1>
+<script src="//cdn.jsdelivr.net/npm/phaser-ce@2.10.3/build/phaser.js"></script>
+
+<body class="container">
+    <div class="col-lg-1 col-offset-6 centered">
+        <script>
+            var game = new Phaser.Game(800, 600, Phaser.CANVAS, 'phaser-example', { create: create, preload: preload, update: update, render: render });
+
+            var word = "megidolaonagi";
+            var category = "ataque"; //ataque o curacion!
+            var correct = [];
+            var letras = [];
+            var indice = 0;
+            var bmd;
+
+
+            function create() {
+
+                //  Here we'll create a simple array where each letter of the word to enter represents one element:
+                for (var i = 0; i < word.length; i++) {
+                    correct[word[i]] = false;
+                    letras[i] = word.charAt(i);
+                }
+
+                //  This is our BitmapData onto which we'll draw the word being entered
+                bmd = game.make.bitmapData(800, 300);
+                bmd.context.font = '40px Arial';
+                bmd.context.fillStyle = '#ffffff';
+                bmd.context.fillText(word, 40, 40);
+                bmd.addToWorld(200,400);
+
+                //  Capture all key presses
+                
+                game.input.keyboard.addCallbacks(this, null, true, keyPress);
+
+            }
+
+            function update() {
+
+
+            }
+
+            function preload() {
+
+
+            }
+
+            function render() {
+
+
+            }
+
+            function keyPress(char) {
+
+                //  Clear the BMD
+                bmd.cls();
+
+                //  Set the x value we'll start drawing the text from
+                var x = 40;
+
+                //  If they pressed one of the letters in the word in order, flag it as correct
+                if (char == letras[indice]) {
+                    correct[indice] = true;
+                    indice += 1;
+                }
+
+                //  Loop through each letter of the word being entered and check them against the key that was pressed
+                for (var i = 0; i < word.length; i++) {
+                    var letter = word.charAt(i);
+
+                    //  Now draw the word, letter by letter, changing colour as required
+                    if (correct[i]) {
+                        bmd.context.fillStyle = '#00ff00';
+                    }
+                    else {
+                        bmd.context.fillStyle = '#ffffff';
+                    }
+
+                    bmd.context.fillText(letter, x, 40);
+
+                    x += bmd.context.measureText(letter).width;
+                }
+                
+            }          
+        </script>
+    </div>
+</body>
